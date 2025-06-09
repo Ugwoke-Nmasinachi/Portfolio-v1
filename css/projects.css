@@ -1,0 +1,11 @@
+.placeholder{
+    display: flex;
+    justify-content: center;/*brings the container to the page center*/
+    margin-top: 300px;
+}
+
+.placeholder p{
+    font-size: 50px;
+    font-weight: bolder;
+    color:#5D3FD3;
+}

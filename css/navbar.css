@@ -24,6 +24,7 @@
 .navdiv .logo p{
     font-family:'Times New Roman', Times, serif;
     color:#5D3FD3 ;
+    text-shadow: -3px 2px 10px blue;
 }
 
 .navdiv ul{
